@@ -8,4 +8,4 @@ Workshop Material
 - ***ERROR***: If your page does not display try "Google Chrome"
 
 ### Download Data
-Downloa Data: https://github.com/drmingle/The-Analytics-Summit-2015/blob/master/HepC.csv
+Download Data: https://github.com/drmingle/The-Analytics-Summit-2015/blob/master/HepC.csv
